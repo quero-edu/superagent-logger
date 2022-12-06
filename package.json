@@ -30,7 +30,7 @@
     "superagent": ">=1"
   },
   "devDependencies": {
-    "superagent": "^1.2.0"
+    "superagent": "^8.0.5"
   },
   "dependencies": {
     "chalk": "^1.1.0"
